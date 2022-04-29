@@ -3,6 +3,9 @@ collections:
     output: true
   projects:
     output: true
+    order:
+      - ShCart.md
+      - FamilyCookBlog.md
 
 defaults:
   - scope:
