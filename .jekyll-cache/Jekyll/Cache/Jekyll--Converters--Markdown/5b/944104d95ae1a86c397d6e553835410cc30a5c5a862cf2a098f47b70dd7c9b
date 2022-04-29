@@ -1,17 +1,4 @@
-<div class="container my-3">
-
-  <div class="project">
-    <div class="title d-flex flex-row">
-      <div class="fs-4 flex-grow-1">
-        
-      </div>
-      <div class="mx-3">
-        <a href="">github</a>
-        <a href="">heroku</a>
-      </div>
-    </div>
-    <div class="description fw-light">
-      <p>ShCart is a project on which I was working with my mentor (who I met on the Tech Leaders Program).
+I"#<p>ShCart is a project on which I was working with my mentor (who I met on the Tech Leaders Program).
 It is an application for planning shopping lists based on weekly eating plan.
 Working on that project helped me to get comfortable writing ruby code.
 Learning areas:</p>
@@ -26,8 +13,4 @@ Learning areas:</p>
 </ul>
 
 <p>and more</p>
-
-    </div>
-  </div>
-
-</div>
+:ET
