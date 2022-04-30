@@ -6,8 +6,8 @@ collections:
     order:
       - ShCart.md
       - FamilyCookBlog.md
-      - FinanceTracker.md
       - SmallChatApp.md
+      - FinanceTracker.md
 
 defaults:
   - scope:

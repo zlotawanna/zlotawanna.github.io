@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";\n",
-		"#photo {\n  width: 200px;\n}\n\n.skill {\n  margin-top: 15px;\n}\n"
+		".container {\n  width: 2480px;\n}\n"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,MAAM,CAAC,EACL,KAAK,EAAE,KAAK,GACb;;AAED,AAAA,MAAM,CAAC,EACL,UAAU,EAAE,IAAI,GACjB"
+	"mappings": "ACAA,AAAA,UAAU,CAAC,EACT,KAAK,EAAE,MAAM,GACd"
 }
