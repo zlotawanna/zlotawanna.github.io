@@ -8,10 +8,11 @@
     {% feed_meta %}
     {% seo %}
   </head>
-  <body class="bg-light">
+  <body class="bg-light position-relative">
     {% include navigation.html %}
-    <div class="container shadow-sm p-5 mb-5 bg-body rounded mx-5">
+    <div class="container shadow-sm p-5 bg-body rounded mx-5">
       {{ content }}
     </div>
+    {% include footer.html %}
   </body>
 </html>
