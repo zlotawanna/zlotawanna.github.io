@@ -1,0 +1,13 @@
+I"â<p>Family Cook Blog - the first Ruby on Rails project which was created during Ruby on Rails course.
+Learning areas:</p>
+<ul>
+  <li>Rails MVC structure in-depth - Models, Views, Controllers</li>
+  <li>CRUD functions</li>
+  <li>multiple resources</li>
+  <li>authentication system built from scratch</li>
+  <li>front-end using Bootstrap</li>
+  <li>one-to-many and many-to-many associations at DB layer</li>
+  <li>Git and Github</li>
+  <li>production deployment with Heroku</li>
+</ul>
+:ET

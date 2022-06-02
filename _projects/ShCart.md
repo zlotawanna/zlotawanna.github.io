@@ -6,16 +6,19 @@ github: https://github.com/zlotawanna/sh-cart
 heroku: http://sh-cart.herokuapp.com/
 order: 1
 ---
-ShCart is a project on which I was working with my mentor (who I met on the Tech Leaders Program).
-It is an application for planning shopping lists based on weekly eating plan.
-Working on that project helped me to get comfortable writing ruby code.
+ShCart - shopping list generator. The project was being developed during the Tech Leaders Program in collaboration with my mentor.
+For managing this project I was using Jira, Git workflow and some elements of Agile Scrum methodology.
+Application is in progress, this is space for learning new things, sandbox. Working on that project helped me to get comfortable writing ruby code.
 Learning areas:
 - application architecture
-- modules as namespaces
-- safe navigation operator
-- API requests with HTTParty
+- keeping code quality (safe navigation operator, modules as namespaces, following rubocop conventions)
+- REST API
 - RSpec tests
+- background jobs with Sidekiq
 - colaboration with PostgreSQL
-- new gems, i.e counter_culture
+- data export to different formats
+- emails preparation
+- front-end with Haml and Bootstrap 5
+- new gems, i.e counter_culture, HTTParty, Prawn
 
 and more

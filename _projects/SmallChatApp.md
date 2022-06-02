@@ -5,4 +5,7 @@ github: https://github.com/zlotawanna/small_chat
 heroku: 0
 order: 3
 ---
-Project created during Ruby on Rails course. First time ActionCable and Websocket usage.
+SmallChatApp - real-time messaging app. Project was created during Ruby on Rails course.
+Learning areas:
+- ActionCable feature, use of WebSocket protocol
+- Semantic-UI front-end

@@ -1,0 +1,17 @@
+I"c<p>ShCart - shopping list generator. The project was being developed during the Tech Leaders Program in collaboration with my mentor.
+For managing this project I was using Jira, Git workflow and some elements of Agile Scrum methodology.
+Application is in progress, this is space for learning new things, sandbox. Working on that project helped me to get comfortable writing ruby code.
+Learning areas:</p>
+<ul>
+  <li>application architecture</li>
+  <li>keeping code quality (safe navigation operator, modules as namespaces, following rubocop conventions)</li>
+  <li>REST API</li>
+  <li>RSpec tests</li>
+  <li>background jobs with Sidekiq</li>
+  <li>colaboration with PostgreSQL</li>
+  <li>data export to different formats</li>
+  <li>emails preparation</li>
+  <li>front-end with Haml and Bootstrap 5</li>
+  <li>new gems, i.e counter_culture, HTTParty, Prawn</li>
+</ul>
+:ET

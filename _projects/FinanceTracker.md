@@ -5,4 +5,10 @@ github: https://github.com/zlotawanna/finance-tracker
 heroku: 0
 order: 4
 ---
-Project created during Ruby on Rails course. I have learned how to make API request, got familiar with devise gem.
+FinanceTracker - social media app. Project was created during Ruby on Rails course.
+Learning areas:
+- devise for authentication
+- search functionality
+- external API usage
+- secure credentials management
+- Ajax and Java Script
