@@ -25,8 +25,15 @@ title: Projects
           {% endif %}
         </div>
       </div>
-      <div class="description fw-light">
-        {{ project.excerpt }}
+      <div class="d-flex flex-row">
+        <div class="description fw-light flex-1">
+          {{ project.excerpt }}
+        </div>
+        {% if project.image != 0 %}
+          <div class="description fw-light flex-1">
+            <img src="{{ project.image }}" alt="">
+          </div>
+        {% endif %}
       </div>
     </div>
   {% endfor %}

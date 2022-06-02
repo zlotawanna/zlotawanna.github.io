@@ -1,6 +1,7 @@
 ---
 title: ShCart
 layout: project
+image: /assets/sh-cart-miniature.png
 github: https://github.com/zlotawanna/sh-cart
 heroku: http://sh-cart.herokuapp.com/
 order: 1
