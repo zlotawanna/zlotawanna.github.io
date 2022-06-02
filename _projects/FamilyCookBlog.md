@@ -1,6 +1,7 @@
 ---
 title: Family Cook Blog
 layout: project
+image: /assets/images/family-cook-blog-miniature.png
 github: https://github.com/zlotawanna/FamilyCookBlog
 heroku: https://familycookblog.herokuapp.com/
 order: 2

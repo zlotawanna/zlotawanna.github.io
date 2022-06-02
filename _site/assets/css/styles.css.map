@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";\n",
-		".container {\n  width: 2480px;\n}\n.footer {\n  font-size: 0.65rem;\n}\n"
+		".container {\n  width: 2480px;\n}\n.footer {\n  font-size: 0.65rem;\n}\n.project-image {\n  width: 400px;\n}\n"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,UAAU,CAAC,EACT,KAAK,EAAE,MAAM,GACd;;AACD,AAAA,OAAO,CAAC,EACN,SAAS,EAAE,OAAO,GACnB"
+	"mappings": "ACAA,AAAA,UAAU,CAAC,EACT,KAAK,EAAE,MAAM,GACd;;AACD,AAAA,OAAO,CAAC,EACN,SAAS,EAAE,OAAO,GACnB;;AACD,AAAA,cAAc,CAAC,EACb,KAAK,EAAE,KAAK,GACb"
 }
