@@ -8,4 +8,4 @@ order: 3
 SmallChatApp - real-time messaging app. Project was created during Ruby on Rails course.
 Learning areas:
 - ActionCable feature, use of WebSocket protocol
-- Semantic-UI front-end
+- front-end using Semantic-UI

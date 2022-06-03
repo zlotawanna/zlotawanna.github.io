@@ -1,18 +1,48 @@
 ---
 layout: default
 title: Skills
+skills: { "Ruby": Competence,
+          "Ruby on Rails 6&7": Competence,
+          "Java Script": "Advanced baginner",
+          "React": Novice,
+          "HTML5/Haml": Proficient,
+          "CSS3": Proficient,
+          "SQL, PostgreSQL": Competence,
+          "RSpec": Competence,
+          "Bootstrap": Proficient,
+          "Git": Competence,
+          "Linux": Competence }
+languages: { English: "Professional proficiency",
+             German: "Advanced beginner" }
 ---
-<div class="d-flex flex-wrap mt-3 fw-light">
-  <div class="skill p-2 m-2 fs-3">Ruby & Ruby on Rails 6 & 7</div>
-  <div class="skill p-2 m-2 fs-4">HTML/Haml</div>
-  <div class="skill p-2 m-2 fs-4">CSS</div>
-  <div class="skill p-2 m-2 fs-4">Bootstrap</div>
-  <div class="skill p-2 m-2 fs-4">Git</div>
-  <div class="skill p-2 m-2 fs-4">English - professional proficiency</div>
-  <div class="skill p-2 m-2 fs-5">SQL - PostgreSQL, MySQL</div>
-  <div class="skill p-2 m-2 fs-5">Tests in RSpec</div>
-  <div class="skill p-2 m-2 fs-6">Java Script - advanced beginner</div>
-  <div class="skill p-2 m-2 fs-6">React - novice</div>
-  <div class="skill p-2 m-2 fs-6">Linux</div>
-  <div class="skill p-2 m-2 fs-6">Basics of German</div>
+<div>
+  <div>
+    <div class="mx-2 my-4 fs-4">
+      Skills
+    </div>
+    <div class="d-flex flex-wrap fw-light">
+      {% for skill in page.skills %}
+        <div class="ms-2 me-4 my-2 skill">
+          <div>
+            <div class="fs-4">{{ skill[0] }}</div>
+            <div class="fs-6">{{ skill[1] }}</div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div>
+    <div class="mx-2 my-4 fs-4">
+      Languages
+    </div>
+    {% for language in page.languages %}
+      <div class="m-2 fw-light">
+        <div>
+          <div class="fs-4">{{ language[0] }}</div>
+          <div class="fs-6">{{ language[1] }}</div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
 </div>
